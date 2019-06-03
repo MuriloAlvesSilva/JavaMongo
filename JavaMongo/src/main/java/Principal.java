@@ -25,6 +25,10 @@ public class Principal {
 		Document aluno = alunos.find().first();
 		System.out.println(aluno);
 		
+		
+		//Teste Git
+		System.out.println("Teste GIT");
+		
 		/*
 		//CRAI DOCUMENTO
 		Document novoAluno = new Document("nome", "Roberto")
