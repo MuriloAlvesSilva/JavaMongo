@@ -1,0 +1,2 @@
+# JavaMongo
+IDE Eclipse
